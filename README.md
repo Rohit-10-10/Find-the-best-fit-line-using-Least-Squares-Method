@@ -46,7 +46,18 @@ plt.show()
 ```
 
 ## Output:
-![mlout](https://user-images.githubusercontent.com/119393424/229975305-ff1afb7c-6f29-4180-ac16-f611afc1624a.png)
+
+SLOPE Y INTERCEPT :
+
+![image](https://github.com/user-attachments/assets/c0864ea1-f5bb-4b60-96d1-68866b7be8b8)
+
+Y PREDICT :
+
+![image](https://github.com/user-attachments/assets/30c84765-b027-4e00-8966-db4838c20387)
+
+GRAPH:
+
+![image](https://github.com/user-attachments/assets/a087d5bb-20ad-4f1c-90df-a26830a74e97)
 
 
 
